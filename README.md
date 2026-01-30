@@ -1,8 +1,4 @@
 # c-program-project
-C programs covering loops, arrays, functions, and pointers.  Beginner-level C programming project with practical examples.
-
-# C Programming Project
-
 This repository contains C programs written as part of academic practice and learning.
 The programs demonstrate core C concepts such as variables, loops, arrays, functions, and pointers.
 
